@@ -10,8 +10,8 @@ def div(a, b):
     divide = (a/b)
     print(divide)
 
-def mul(a, b):
-    multiply = (a*b)
-    print(multiply)
+#def mul(a, b):
+ #   multiply = (a*b)
+  #  print(multiply)
 
 
