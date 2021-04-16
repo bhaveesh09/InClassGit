@@ -15,3 +15,8 @@ def mul(a, b):
     print(multiply)
 
 
+def listtt(sum, sub, multiply, divide):
+    list = [sum, sub, multiply, divide]
+    Sum (list)
+
+
